@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Mark Kovacs, I'm a web developer.
+I'm currently learning Python for backend development.
+I love bouldering
 <!--
 **RainbowGrisea/RainbowGrisea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
